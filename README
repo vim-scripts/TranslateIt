@@ -1,0 +1,4 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=2054
+
+This script looks up a word under cursor in a dictionary using custom utility such as sdcv (console version of StarDict program)
+
